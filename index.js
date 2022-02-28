@@ -5,5 +5,5 @@ const userHandler = require("./routeHandler/userHandler");
 app.use("/user", userHandler);
 
 app.listen(3333, () => {
-  console.log("Server running on port: 3333kjhnkdsfj");
+  console.log("Server running on port: 3333");
 });
